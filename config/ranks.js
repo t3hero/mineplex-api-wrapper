@@ -8,21 +8,25 @@ module.exports = {
         'ETERNAL',
         'YT',
         'TWITCH',
+        'CONTENT',
         'YOUTUBE',
         'BUILDER',
         'MAPPER',
         'MAPLEAD',
-        'MEDIA',
         'TRAINEE',
         'MOD',
+        'QAM',
+        'MC',
+        'TM',
+        'EVENTMOD',
         'CMA',
         'SR.MOD',
-        'C.MOD',
+        'QA',
+        'CMOD',
         'SUPPORT',
-        'JR.DEV',
         'ADMIN',
         'DEV',
-        'LEADER',
+        'LT',
         'OWNER'
     ],
     convert: {
@@ -47,9 +51,6 @@ module.exports = {
         'SNRMODERATOR'  : 'SR.MOD',
 
         'CMOD'          : 'C.MOD',
-
-        'JRDEV'         : 'JR.DEV',
-        'JNRDEV'        : 'JR.DEV',
 
         'DEVELOPER'     : 'DEV',
 
