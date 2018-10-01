@@ -11,7 +11,6 @@ module.exports = {
         'YOUTUBE',
         'BUILDER',
         'MAPLEAD',
-        'MEDIA',
         'TRAINEE',
         'MOD',
         'CMA',
