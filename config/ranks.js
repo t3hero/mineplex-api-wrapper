@@ -10,7 +10,6 @@ module.exports = {
         'TWITCH',
         'YOUTUBE',
         'BUILDER',
-        'MAPPER',
         'MAPLEAD',
         'MEDIA',
         'TRAINEE',
